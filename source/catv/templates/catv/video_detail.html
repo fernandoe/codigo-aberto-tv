@@ -1,0 +1,18 @@
+{% extends "base/base.html" %}
+
+{% block content %}
+
+<div class="row">
+  <div class="col-12">
+    <iframe class="mx-3 my-3"
+            width="1346"
+            height="757"
+            src="https://www.youtube.com/embed/{{ object.youtube_video_id }}"
+            frameborder="0"
+            gesture="media"
+            allow="encrypted-media"
+            allowfullscreen>
+    </iframe>
+  </div>
+</div>
+{% endblock %}
