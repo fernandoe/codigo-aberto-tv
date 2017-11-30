@@ -1,11 +1,9 @@
 
 <div class="card">
-  <img class="card-img-top" src="..." alt="Card image cap">
+  <img class="card-img-top" src="https://img.youtube.com/vi/{{ instance.youtube_video_id }}/mqdefault.jpg">
   <div class="card-block">
-    <h4 class="card-title">{{ instance.title }}</h4>
-    <p class="card-text">
-      Some quick example text to build on the card title and make up the bulk of the card's content.
-    </p>
-    <a href="#" class="btn btn-primary">Ver</a>
+    <h4 class="card-title text-center">Parte {{ instance.part }}</h4>
+    <p class="card-text">{{ instance.title }}</p>
+    <div class="text-center"><a href="#" class="btn btn-primary">Ver</a></div>
   </div>
 </div>
