@@ -2,17 +2,36 @@
 
 {% block content %}
 
+<div class="row mt-3">
+  <div class="col-9">
+    <h4>Parte {{ object.part }}: {{ object.title }}</h4>
+  </div>
+  <div class="col-3 text-right">
+    <button type="button" onclick="window.history.back();" class="btn btn-dark btn-sm">Voltar</button>
+  </div>
+</div>
+
+
 <div class="row">
-  <div class="col-12">
-    <iframe class="mx-3 my-3"
-            width="1346"
-            height="757"
-            src="https://www.youtube.com/embed/{{ object.youtube_video_id }}"
-            frameborder="0"
-            gesture="media"
-            allow="encrypted-media"
-            allowfullscreen>
-    </iframe>
+  <div class="col-12 px-3 py-3">
+    <div class="embed-responsive embed-responsive-16by9 ">
+      <iframe class="embed-responsive-item"
+              src="https://www.youtube.com/embed/{{ object.youtube_video_id }}"
+              allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+</div>
+
+<div class="row mt-3">
+  <div class="col-9">
+  </div>
+  <div class="col-3 text-right">
+    <script src="https://apis.google.com/js/platform.js"></script>
+    <div class="g-ytsubscribe" data-channelid="UCyHuz50Ce8LuiHOj07y9ZIQ" data-layout="full" data-theme="dark"
+         data-count="hidden"></div>
   </div>
 </div>
 {% endblock %}
+
+

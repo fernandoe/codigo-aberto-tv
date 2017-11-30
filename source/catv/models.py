@@ -8,6 +8,7 @@ class Video(UUIDModel):
     title = models.CharField(max_length=120)
     part = models.IntegerField()
     description = models.TextField()
+    # script = models.TextField(null=True, blank=True)
 
     def __str__(self):
         return self.title
