@@ -5,6 +5,7 @@ from catv.models import Video
 
 class VideoListView(ListView):
     model = Video
+    ordering = ['part']
 
 
 class VideoDetailView(DetailView):
