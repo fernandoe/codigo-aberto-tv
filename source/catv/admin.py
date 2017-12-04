@@ -7,6 +7,7 @@ from .models import Video, Playlist
 class VideoModelAdmin(admin.ModelAdmin):
     search_fields = ['youtube_video_id', 'title', 'description']
     list_display = ['get_uuid', 'identifier', 'part', 'youtube_video_id', 'title']
+    list_filter = ['playlists']
 
 
 @admin.register(Playlist)
