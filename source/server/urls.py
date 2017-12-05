@@ -11,5 +11,6 @@ urlpatterns = [
     # url(r'^$', VideoListView.as_view(), name='video-list'),
     url(r'^$', PlaylistListView.as_view(), name='playlist-list'),
     # url(r'^playlists/$', PlaylistListView.as_view(), name='playlist-list'),
-    url(r'^videos/(?P<pk>.*)$', VideoDetailView.as_view(), name='video-detail'),
+    # url(r'^videos/(?P<pk>.*)$', VideoDetailView.as_view(), name='video-detail'),
+    url(r'^videos/(?P<slug>[-\w]+)/$', VideoDetailView.as_view(), name='video-detail'),
 ]

@@ -1,4 +1,5 @@
 from django.db import models
+from django.utils.text import slugify
 from fe_core.base_models import UUIDModel
 
 
@@ -20,7 +21,13 @@ class Video(UUIDModel):
     part = models.IntegerField()
     description = models.TextField()
     playlists = models.ManyToManyField(Playlist, blank=True)
+    slug = models.SlugField(max_length=200, null=True, blank=True)
+
     # script = models.TextField(null=True, blank=True)
 
     def __str__(self):
         return self.title
+
+    def slugify_url(self):
+        self.slug = slugify('Parte {PART:02}: {TITLE}'.format(PART=self.part, TITLE=self.title))
+        self.save()
