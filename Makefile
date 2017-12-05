@@ -16,3 +16,7 @@ loaddata:
 	cd ./source && \
 	python manage.py loaddata catv.Playlist.json && \
 	python manage.py loaddata catv.Video.json
+
+runserver:
+	cd ./source && \
+	python manage.py runserver 127.0.0.1:9000

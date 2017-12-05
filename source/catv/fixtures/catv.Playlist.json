@@ -4,9 +4,9 @@
     "pk": "f38a83d3-3f17-43a3-bdf7-759eb276e395",
     "fields": {
         "created_at": "2017-12-04T14:22:44.494Z",
-        "updated_at": "2017-12-04T14:22:44.494Z",
+        "updated_at": "2017-12-05T17:17:53.659Z",
         "youtube_playlist_id": "PLSlZ5nyl9enf-kRYiVVliz2esE3ukcgVJ",
-        "title": "Construindo o projeto fe-arquivo-server"
+        "title": "Projeto Arquivo"
     }
 },
 {
@@ -14,9 +14,9 @@
     "pk": "f9f7dd93-211c-4d85-a1d3-c636381566b0",
     "fields": {
         "created_at": "2017-12-04T14:24:54.461Z",
-        "updated_at": "2017-12-04T14:24:54.461Z",
+        "updated_at": "2017-12-05T17:17:37.603Z",
         "youtube_playlist_id": "PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP",
-        "title": "Construindo o projeto fe-healthcheck-server"
+        "title": "Projeto Health Check"
     }
 }
 ]
