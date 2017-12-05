@@ -6,6 +6,9 @@ class Playlist(UUIDModel):
     youtube_playlist_id = models.CharField(max_length=50)
     title = models.CharField(max_length=120)
 
+    def videos(self):
+        return Video.objects.filter(playlists=self).order_by('part')
+
     def __str__(self):
         return self.title
 

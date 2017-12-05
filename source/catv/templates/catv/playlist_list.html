@@ -1,0 +1,25 @@
+{% extends "base/base.html" %}
+
+{% block content %}
+
+<div class="row">
+    <div class="col-12 mt-3 mb-3">
+        <h3>Todos os Vídeos</h3>
+    </div>
+</div>
+
+
+{% for playlist in object_list %}
+
+<h1>{{ playlist.title }}</h1>
+<div class="row">
+    {% for video in playlist.videos %}
+    <div class="col-sm-12 col-md-4 col-lg-3 col-xl-3">
+        {% include "catv/snippets/card.html" with instance=video %}
+    </div>
+    {% endfor %}
+</div>
+
+{% endfor %}
+
+{% endblock %}
