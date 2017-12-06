@@ -623,12 +623,12 @@
     "pk": "9bce9e7d-3217-4622-956d-7ec46d57d5ca",
     "fields": {
         "created_at": "2017-12-04T15:39:07.590Z",
-        "updated_at": "2017-12-06T03:46:02.267Z",
+        "updated_at": "2017-12-06T12:54:30.454Z",
         "identifier": 8,
         "youtube_video_id": "IjFbIOFKm3k",
         "title": "Configura\u00e7\u00e3o do Django Admin para os modelos da aplica\u00e7\u00e3o",
         "part": 3,
-        "description": "Nesse v\u00eddeo adicionei a configura\u00e7\u00e3o dos dois modelos (Endereco e Verificacao) ao Django Admin.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/dba30870e65f5adb8c005e0b198fd053e0ad1200\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
+        "description": "Nesse v\u00eddeo adicionei a configura\u00e7\u00e3o dos dois modelos (Endereco e Verificacao) no Django Admin.\r\n\r\nLembrando que esse v\u00eddeo pertence a uma s\u00e9rie de todo o trabalho que eu venho realizando em projetos pessoais. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\n\r\nhttps://goo.gl/xNmqrF\r\n\r\n\r\nLINKS:\r\n- Projeto: https://github.com/fernandoe/fe-healthcheck-server\r\n- Commit: https://github.com/fernandoe/fe-healthcheck-server/commit/dba30870e65f5adb8c005e0b198fd053e0ad1200\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttps://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, django-admin, fe-healthcheck-server",
         "slug": "parte-03-configuracao-do-django-admin-para-os-modelos-da-aplicacao",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"

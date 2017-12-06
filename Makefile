@@ -22,3 +22,10 @@ loaddata:
 runserver:
 	cd ./source && \
 	python manage.py runserver 127.0.0.1:9000
+
+resetdb:
+	rm source/db.sqlite3 && \
+	cd ./source && \
+	python manage.py migrate && \
+	cd .. && \
+	make loaddata
