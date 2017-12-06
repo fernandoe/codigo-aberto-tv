@@ -4,7 +4,7 @@
     "pk": "07023210-2555-49b1-bff1-fc9babb5f1c2",
     "fields": {
         "created_at": "2017-12-04T15:40:57.365Z",
-        "updated_at": "2017-12-05T18:29:13.133Z",
+        "updated_at": "2017-12-06T03:53:49.126Z",
         "identifier": 13,
         "youtube_video_id": "q_Qtc2p5gEM",
         "title": "Criando um cron job na Dreamhost para rodar a verifica\u00e7\u00e3o das URLs",
@@ -13,6 +13,15 @@
         "slug": "parte-08-criando-um-cron-job-na-dreamhost-para-rodar-a-verificacao-das-urls",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "5d600cb2-665f-4c49-bbec-b152cdee3acc",
+            "a8e07c64-d8ec-4cdb-8b52-541a863db639",
+            "1578316d-9e42-4c53-9f62-57a292b5a69b",
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "9371ba23-b321-43da-a382-e142e15c09e0",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413"
         ]
     }
 },
@@ -21,7 +30,7 @@
     "pk": "0f83a950-398d-45e7-9b3d-3a3a46315e2f",
     "fields": {
         "created_at": "2017-12-01T14:17:01.590Z",
-        "updated_at": "2017-12-05T18:29:12.084Z",
+        "updated_at": "2017-12-06T04:09:57.428Z",
         "identifier": 38,
         "youtube_video_id": "z7ITUFMY62k",
         "title": "Implementando a rota que baixa um arquivo espec\u00edfico",
@@ -30,6 +39,19 @@
         "slug": "parte-13-implementando-a-rota-que-baixa-um-arquivo-especifico",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "195786c0-f499-42e4-bf9a-ac372a1a5959",
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "7c21cfc6-5b70-4d0c-8d26-0d94f05783ba",
+            "2d698c75-d77b-4ba9-bfe4-510c0f5487b7",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "fe684ab1-9e15-4cd6-b43f-5448b67eb85f",
+            "3dba3ac3-8139-4f68-80cf-c94f19c94aac",
+            "f03f7102-b41d-4831-85b2-d0ced101354a",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "9e9b82ea-1e43-458c-a8c7-47241ae630af",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -38,7 +60,7 @@
     "pk": "10c046f2-f795-4d72-a71c-f46cf37b1ff6",
     "fields": {
         "created_at": "2017-11-29T16:10:23.647Z",
-        "updated_at": "2017-12-05T18:29:12.135Z",
+        "updated_at": "2017-12-06T04:19:21.656Z",
         "identifier": 26,
         "youtube_video_id": "sUWIbywiZtU",
         "title": "Cria\u00e7\u00e3o da estrutura b\u00e1sica do projeto Django",
@@ -47,6 +69,13 @@
         "slug": "parte-01-criacao-da-estrutura-basica-do-projeto-django",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "227fdebf-2763-4cb8-a755-e672461bf69f",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "493190e5-36c7-40f7-aa18-a23001547979"
         ]
     }
 },
@@ -55,15 +84,23 @@
     "pk": "11ea4c4b-f287-4705-9a68-696076cad5ab",
     "fields": {
         "created_at": "2017-12-04T15:41:39.573Z",
-        "updated_at": "2017-12-05T18:29:13.229Z",
+        "updated_at": "2017-12-06T03:55:57.929Z",
         "identifier": 15,
         "youtube_video_id": "RFqXDaf0Ni4",
         "title": "Cria\u00e7\u00e3o do MySQL no DH e sua configura\u00e7\u00e3o de acesso com um arquivo .ini externo",
         "part": 10,
-        "description": "Neste v\u00eddeo fa\u00e7o a cria\u00e7\u00e3o do banco de dados da aplica\u00e7\u00e3o (MySQL) dentro do servi\u00e7o Dreamhost e fa\u00e7o a configura\u00e7\u00e3o de acesso da aplica\u00e7\u00e3o usando um arquivo .ini externo a aplica\u00e7\u00e3o (para os dados como senha e endere\u00e7o do servidor n\u00e3o ficarem dentro do github).\r\nBonus: Tive que salvar minha cadelinha no meio do v\u00eddeo, ela prendeu a unha no pelo ao se co\u00e7ar. :)\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/4a1050858ff8920bfa2df258939f4e9bdea8e80c\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, mysql, dreamhost, settings, fe-healthcheck-server",
+        "description": "Neste v\u00eddeo fa\u00e7o a cria\u00e7\u00e3o do banco de dados da aplica\u00e7\u00e3o (MySQL) dentro do servi\u00e7o Dreamhost e fa\u00e7o a configura\u00e7\u00e3o de acesso da aplica\u00e7\u00e3o usando um arquivo .ini externo a aplica\u00e7\u00e3o (para os dados como senha e endere\u00e7o do servidor n\u00e3o ficarem dentro do github).\r\nBonus: Tive que salvar minha cadelinha no meio do v\u00eddeo, ela prendeu a unha no pelo ao se co\u00e7ar. :)\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/4a1050858ff8920bfa2df258939f4e9bdea8e80c\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-10-criacao-do-mysql-no-dh-e-sua-configuracao-de-acesso-com-um-arquivo-ini-externo",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "9371ba23-b321-43da-a382-e142e15c09e0",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "b7c9ccaa-f73d-4172-828f-52bc6089cc53",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "70bd933e-1b05-4fc4-9144-d4a3553c4e6f"
         ]
     }
 },
@@ -72,7 +109,7 @@
     "pk": "1a830d58-2a71-4070-911e-87ab45b09f17",
     "fields": {
         "created_at": "2017-12-01T14:16:48.958Z",
-        "updated_at": "2017-12-05T18:29:12.184Z",
+        "updated_at": "2017-12-06T04:11:07.942Z",
         "identifier": 37,
         "youtube_video_id": "5N4VKYw_0Iw",
         "title": "Implementando uma rota que retorna os detalhes de um arquivo no formato JSON",
@@ -81,6 +118,19 @@
         "slug": "parte-12-implementando-uma-rota-que-retorna-os-detalhes-de-um-arquivo-no-formato-json",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "195786c0-f499-42e4-bf9a-ac372a1a5959",
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "7c21cfc6-5b70-4d0c-8d26-0d94f05783ba",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "be9cc7cb-3f40-46e8-8f30-f1ced2ccfcd1",
+            "3dba3ac3-8139-4f68-80cf-c94f19c94aac",
+            "f03f7102-b41d-4831-85b2-d0ced101354a",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "9628c28b-a0dc-4f7c-ad56-1ad64c1e13aa",
+            "9e9b82ea-1e43-458c-a8c7-47241ae630af",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -89,7 +139,7 @@
     "pk": "1ef1a0e0-95f8-48ae-942b-bd9ad1318a49",
     "fields": {
         "created_at": "2017-11-29T16:15:03.618Z",
-        "updated_at": "2017-12-05T18:29:12.234Z",
+        "updated_at": "2017-12-06T04:16:45.514Z",
         "identifier": 30,
         "youtube_video_id": "hBQe-XTDM-o",
         "title": "Cria\u00e7\u00e3o da app de healthcheck",
@@ -98,6 +148,15 @@
         "slug": "parte-05-criacao-da-app-de-healthcheck",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "3dba3ac3-8139-4f68-80cf-c94f19c94aac",
+            "f03f7102-b41d-4831-85b2-d0ced101354a",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "9e9b82ea-1e43-458c-a8c7-47241ae630af",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -106,7 +165,7 @@
     "pk": "22086993-81a2-4c83-9bb8-6992a5933568",
     "fields": {
         "created_at": "2017-11-29T16:12:10.282Z",
-        "updated_at": "2017-12-05T18:29:12.306Z",
+        "updated_at": "2017-12-06T04:18:07.442Z",
         "identifier": 28,
         "youtube_video_id": "LQ02Evl4i0Y",
         "title": "Automatizando o deploy com git push (push-to-deploy)",
@@ -115,6 +174,17 @@
         "slug": "parte-03-automatizando-o-deploy-com-git-push-push-to-deploy",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "a5857af4-51b4-4541-a464-9c691e979eee",
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "9371ba23-b321-43da-a382-e142e15c09e0",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "6bc1e7c9-9877-454b-a5b7-8a44cef9a879",
+            "1a3c819f-866b-4bb5-a81c-6f5682c50ce8",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "abbe7294-1d37-401a-86d7-90b2b00a004f",
+            "09d6bcf4-9dfa-4db5-84b6-51f59429b264"
         ]
     }
 },
@@ -123,7 +193,7 @@
     "pk": "29103cbb-ccd3-4787-9de3-63bfa695d0ef",
     "fields": {
         "created_at": "2017-12-01T14:16:23.952Z",
-        "updated_at": "2017-12-05T18:29:12.355Z",
+        "updated_at": "2017-12-06T04:13:00.430Z",
         "identifier": 35,
         "youtube_video_id": "rioUfTTf8t0",
         "title": "Criando o serializer para o modelo de arquivo com o Django REST Framework",
@@ -132,6 +202,17 @@
         "slug": "parte-10-criando-o-serializer-para-o-modelo-de-arquivo-com-o-django-rest-framework",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "7c21cfc6-5b70-4d0c-8d26-0d94f05783ba",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "3dba3ac3-8139-4f68-80cf-c94f19c94aac",
+            "f03f7102-b41d-4831-85b2-d0ced101354a",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "9628c28b-a0dc-4f7c-ad56-1ad64c1e13aa",
+            "9e9b82ea-1e43-458c-a8c7-47241ae630af",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -140,7 +221,7 @@
     "pk": "291abf41-20dd-4ef1-9b7e-812f194c1581",
     "fields": {
         "created_at": "2017-12-04T15:42:04.853Z",
-        "updated_at": "2017-12-05T18:29:13.302Z",
+        "updated_at": "2017-12-06T04:06:25.493Z",
         "identifier": 16,
         "youtube_video_id": "VG-gQ3e0L3Y",
         "title": "Configurando o Django para enviar emails pela Dreamhost",
@@ -149,6 +230,14 @@
         "slug": "parte-11-configurando-o-django-para-enviar-emails-pela-dreamhost",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "9371ba23-b321-43da-a382-e142e15c09e0",
+            "67978a94-b87e-461a-a8e4-cf3e5e594e66",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "70bd933e-1b05-4fc4-9144-d4a3553c4e6f"
         ]
     }
 },
@@ -157,15 +246,22 @@
     "pk": "2d3b6488-4ea6-4764-b9fb-f968f25a042f",
     "fields": {
         "created_at": "2017-12-04T15:43:43.998Z",
-        "updated_at": "2017-12-05T18:29:13.544Z",
+        "updated_at": "2017-12-06T04:00:31.219Z",
         "identifier": 21,
         "youtube_video_id": "vh4NqvYMeCs",
         "title": "Integrando a biblioteca pytest ao projeto",
         "part": 16,
-        "description": "Nesse v\u00eddeo fiz a configura\u00e7\u00e3o da biblioteca pytest para executar os testes do projeto. Tamb\u00e9m adicionamos o comando no Makefile para facilitar a execu\u00e7\u00e3o dentro do CI.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nEsse v\u00eddeo faz parte de uma s\u00e9rie onde venho gravando o trabalho real em meus projetos pessoais, ele n\u00e3o \u00e9 um treinamento. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/77134f5e6a78811a978ab1d9c0145dff9c6fadaa\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, pytest, unit-test, fe-healthcheck-server",
+        "description": "Nesse v\u00eddeo fiz a configura\u00e7\u00e3o da biblioteca pytest para executar os testes do projeto. Tamb\u00e9m adicionamos o comando no Makefile para facilitar a execu\u00e7\u00e3o dentro do CI.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nEsse v\u00eddeo faz parte de uma s\u00e9rie onde venho gravando o trabalho real em meus projetos pessoais, ele n\u00e3o \u00e9 um treinamento. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/77134f5e6a78811a978ab1d9c0145dff9c6fadaa\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-16-integrando-a-biblioteca-pytest-ao-projeto",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "76507eaa-f468-492e-bb8f-5c75ba6ad4e0",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -174,15 +270,22 @@
     "pk": "335a000b-0697-4bd0-bc32-2ea14c826502",
     "fields": {
         "created_at": "2017-12-04T15:39:56.886Z",
-        "updated_at": "2017-12-05T18:29:12.987Z",
+        "updated_at": "2017-12-06T03:49:28.030Z",
         "identifier": 10,
         "youtube_video_id": "8owrtTyLSOg",
         "title": "Escrevendo um comando customizado no django-admin",
         "part": 5,
-        "description": "Nesse v\u00eddeo escrevemos um comando customizado do django-admin que \u00e9 executado com o manage.py para executar a verifica\u00e7\u00e3o das URLs cadastradas e ativas dentro do sistema.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/8de27e73ed693cee425a1346bb562aecc3eebc64\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, command, django-admin, fe-healthcheck-server",
+        "description": "Nesse v\u00eddeo escrevemos um comando customizado do django-admin que \u00e9 executado com o manage.py para executar a verifica\u00e7\u00e3o das URLs cadastradas e ativas dentro do sistema.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/8de27e73ed693cee425a1346bb562aecc3eebc64\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-05-escrevendo-um-comando-customizado-no-django-admin",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "5d600cb2-665f-4c49-bbec-b152cdee3acc",
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "814849be-570b-4691-8e3b-e682e7e0d762",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413"
         ]
     }
 },
@@ -191,7 +294,7 @@
     "pk": "33863dd0-24fb-4460-9058-736c9520cf10",
     "fields": {
         "created_at": "2017-12-01T14:11:18.335Z",
-        "updated_at": "2017-12-05T18:29:12.403Z",
+        "updated_at": "2017-12-06T04:16:12.033Z",
         "identifier": 31,
         "youtube_video_id": "pzNVfuiEMEw",
         "title": "Cria\u00e7\u00e3o da rota de healthcheck",
@@ -200,6 +303,15 @@
         "slug": "parte-06-criacao-da-rota-de-healthcheck",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "3dba3ac3-8139-4f68-80cf-c94f19c94aac",
+            "f03f7102-b41d-4831-85b2-d0ced101354a",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "9e9b82ea-1e43-458c-a8c7-47241ae630af",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -208,7 +320,7 @@
     "pk": "3c184a2b-250c-48ed-a19c-58e031452683",
     "fields": {
         "created_at": "2017-12-04T15:43:24.239Z",
-        "updated_at": "2017-12-05T18:29:13.497Z",
+        "updated_at": "2017-12-06T04:01:09.594Z",
         "identifier": 20,
         "youtube_video_id": "7PU8LSjDmdk",
         "title": "Automatizando o deploy do projeto com Travis para a Dreamhost",
@@ -217,6 +329,14 @@
         "slug": "parte-15-automatizando-o-deploy-do-projeto-com-travis-para-a-dreamhost",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "a5857af4-51b4-4541-a464-9c691e979eee",
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "9371ba23-b321-43da-a382-e142e15c09e0",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "c9bff618-cac4-4244-b889-86f13093cff8"
         ]
     }
 },
@@ -225,7 +345,7 @@
     "pk": "3d7caa11-c21b-44eb-b580-48ab45786f80",
     "fields": {
         "created_at": "2017-12-01T14:15:52.042Z",
-        "updated_at": "2017-12-05T18:29:12.452Z",
+        "updated_at": "2017-12-06T04:15:34.769Z",
         "identifier": 32,
         "youtube_video_id": "Et0MpuoiVms",
         "title": "Cria\u00e7\u00e3o da app de arquivo",
@@ -234,6 +354,12 @@
         "slug": "parte-07-criacao-da-app-de-arquivo",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "3d65e0ae-b3bb-4f99-a219-5946ed91821c"
         ]
     }
 },
@@ -242,15 +368,21 @@
     "pk": "425c5bb7-1e3a-42aa-8414-5becbd0a3ecc",
     "fields": {
         "created_at": "2017-12-04T15:43:03.595Z",
-        "updated_at": "2017-12-05T18:29:13.448Z",
+        "updated_at": "2017-12-06T04:01:47.017Z",
         "identifier": 19,
         "youtube_video_id": "B7ulgCKVnq8",
         "title": "Adicionando um Makefile para executar os comandos mais usados do projeto",
         "part": 14,
-        "description": "Nesse v\u00eddeo adicionamos um dos recursos mais antigos que o Linux possue, um arquivo Makefile com os comandos mais usados do projeto. Facilitando a opera\u00e7\u00e3o e execu\u00e7\u00e3o de suas tarefas.\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/032808df6cb4125398398b474356aa8580ebc516\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, makefile, fe-healthcheck-server",
+        "description": "Nesse v\u00eddeo adicionamos um dos recursos mais antigos que o Linux possue, um arquivo Makefile com os comandos mais usados do projeto. Facilitando a opera\u00e7\u00e3o e execu\u00e7\u00e3o de suas tarefas.\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/032808df6cb4125398398b474356aa8580ebc516\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-14-adicionando-um-makefile-para-executar-os-comandos-mais-usados-do-projeto",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "a5857af4-51b4-4541-a464-9c691e979eee",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "878acb15-2f0f-4377-81c2-f40dc4abdf77",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413"
         ]
     }
 },
@@ -259,7 +391,7 @@
     "pk": "434e64f7-35bc-44de-b06e-ad834dc97913",
     "fields": {
         "created_at": "2017-12-04T15:37:51.369Z",
-        "updated_at": "2017-12-05T18:29:12.791Z",
+        "updated_at": "2017-12-06T03:41:04.754Z",
         "identifier": 6,
         "youtube_video_id": "KwTozmJJ0_o",
         "title": "Cria\u00e7\u00e3o do projeto Django b\u00e1sico",
@@ -268,6 +400,13 @@
         "slug": "parte-01-criacao-do-projeto-django-basico",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "493190e5-36c7-40f7-aa18-a23001547979",
+            "abbe7294-1d37-401a-86d7-90b2b00a004f"
         ]
     }
 },
@@ -276,15 +415,23 @@
     "pk": "48156862-0771-4819-954b-1e6e473826d3",
     "fields": {
         "created_at": "2017-12-04T15:44:22.957Z",
-        "updated_at": "2017-12-05T18:29:13.642Z",
+        "updated_at": "2017-12-06T03:58:59.118Z",
         "identifier": 23,
         "youtube_video_id": "3tUh3ZhTd8I",
         "title": "Enviando o relat\u00f3rio de cobertura para o coveralls.io",
         "part": 18,
-        "description": "Nesse v\u00eddeo fiz a configura\u00e7\u00e3o do envio do relat\u00f3rio de cobertura para o servi\u00e7o do https://coveralls.io e tamb\u00e9m configuramos o badge que mostra o percentual de cobertura na p\u00e1gina inicial do projeto no github.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nEsse v\u00eddeo faz parte de uma s\u00e9rie onde venho gravando o trabalho real em meus projetos pessoais, ele n\u00e3o \u00e9 um treinamento. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nCOMMITS:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/12ac0fe987747fa95778af1169a5355e211249f2\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/fbd8773e97de891ece68cf4171953a821ccca8c5\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/5a26a1ed9d1ba6dcf3402fed8b6a143310d4142b\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, coverage, coveralls, unit-test, fe-healthcheck-server",
+        "description": "Nesse v\u00eddeo fiz a configura\u00e7\u00e3o do envio do relat\u00f3rio de cobertura para o servi\u00e7o do https://coveralls.io e tamb\u00e9m configuramos o badge que mostra o percentual de cobertura na p\u00e1gina inicial do projeto no github.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nEsse v\u00eddeo faz parte de uma s\u00e9rie onde venho gravando o trabalho real em meus projetos pessoais, ele n\u00e3o \u00e9 um treinamento. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nCOMMITS:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/12ac0fe987747fa95778af1169a5355e211249f2\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/fbd8773e97de891ece68cf4171953a821ccca8c5\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/5a26a1ed9d1ba6dcf3402fed8b6a143310d4142b\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-18-enviando-o-relatorio-de-cobertura-para-o-coverallsio",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "d449b0d5-52f3-41a6-906e-06daaa41292f",
+            "659a436e-70f3-44d7-a038-ed7531d50de3",
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -293,7 +440,7 @@
     "pk": "521be073-2ee9-434d-9f5e-9c4113e35fbe",
     "fields": {
         "created_at": "2017-12-01T14:16:10.343Z",
-        "updated_at": "2017-12-05T18:29:12.500Z",
+        "updated_at": "2017-12-06T04:14:08.621Z",
         "identifier": 34,
         "youtube_video_id": "g6jetkHCWIw",
         "title": "Criando o modelo de Arquivo",
@@ -302,6 +449,18 @@
         "slug": "parte-09-criando-o-modelo-de-arquivo",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "f4c5234c-3c21-4840-a89b-3012827e9ef7",
+            "9ea7d181-eb34-4794-838c-5514277d9254",
+            "3dba3ac3-8139-4f68-80cf-c94f19c94aac",
+            "ed3f6041-b17b-4606-8928-658bb17896c1",
+            "f03f7102-b41d-4831-85b2-d0ced101354a",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "9e9b82ea-1e43-458c-a8c7-47241ae630af",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -310,15 +469,23 @@
     "pk": "52ecc3d0-ff9f-46e6-b217-051775531968",
     "fields": {
         "created_at": "2017-12-04T15:40:36.046Z",
-        "updated_at": "2017-12-05T18:29:13.084Z",
+        "updated_at": "2017-12-06T03:52:52.185Z",
         "identifier": 12,
         "youtube_video_id": "fAGEuq-MpdA",
         "title": "Criando um dom\u00ednio do DH e fazendo um deploy com git",
         "part": 7,
-        "description": "Nesse v\u00eddeo criamos um dom\u00ednio para o nosso servi\u00e7o dentro do Dreamhost, realizamos a configura\u00e7\u00e3o do deploy da aplica\u00e7\u00e3o usando git e tamb\u00e9m fizemos o deploy da aplica\u00e7\u00e3o deixando ela funcionando no dom\u00ednio criado.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMITS:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/301500649888084132d35dc8f138a4ccf01536c7\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/7d2d445bee094ac70e604dc3878e3febd2c6282b\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/6792bf2017625ec0b2ac5ff1279e3a98feedf38c\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, dreamhost, git, deploy, fe-healthcheck-server",
+        "description": "Nesse v\u00eddeo criamos um dom\u00ednio para o nosso servi\u00e7o dentro do Dreamhost, realizamos a configura\u00e7\u00e3o do deploy da aplica\u00e7\u00e3o usando git e tamb\u00e9m fizemos o deploy da aplica\u00e7\u00e3o deixando ela funcionando no dom\u00ednio criado.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMITS:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/301500649888084132d35dc8f138a4ccf01536c7\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/7d2d445bee094ac70e604dc3878e3febd2c6282b\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/6792bf2017625ec0b2ac5ff1279e3a98feedf38c\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-07-criando-um-dominio-do-dh-e-fazendo-um-deploy-com-git",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "a5857af4-51b4-4541-a464-9c691e979eee",
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "9371ba23-b321-43da-a382-e142e15c09e0",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6bc1e7c9-9877-454b-a5b7-8a44cef9a879",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413"
         ]
     }
 },
@@ -327,7 +494,7 @@
     "pk": "5f1f3569-a77f-47b2-b1bd-e5a41affe6f5",
     "fields": {
         "created_at": "2017-12-01T14:16:36.462Z",
-        "updated_at": "2017-12-05T18:29:12.549Z",
+        "updated_at": "2017-12-06T04:12:14.590Z",
         "identifier": 36,
         "youtube_video_id": "7Q2AuR_HVdM",
         "title": "Retornando um JSON com um ModelSerializer na rota de upload de arquivo",
@@ -336,6 +503,18 @@
         "slug": "parte-11-retornando-um-json-com-um-modelserializer-na-rota-de-upload-de-arquivo",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "195786c0-f499-42e4-bf9a-ac372a1a5959",
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "7c21cfc6-5b70-4d0c-8d26-0d94f05783ba",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "3dba3ac3-8139-4f68-80cf-c94f19c94aac",
+            "f03f7102-b41d-4831-85b2-d0ced101354a",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "9628c28b-a0dc-4f7c-ad56-1ad64c1e13aa",
+            "9e9b82ea-1e43-458c-a8c7-47241ae630af",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -344,15 +523,22 @@
     "pk": "6e4ebe2d-777a-4a49-bd30-d4b009657d1a",
     "fields": {
         "created_at": "2017-12-04T15:44:44.786Z",
-        "updated_at": "2017-12-05T18:29:13.715Z",
+        "updated_at": "2017-12-06T03:58:01.770Z",
         "identifier": 24,
         "youtube_video_id": "pENyk4j6lBw",
         "title": "Simulando requisi\u00e7\u00f5es com requests-mock",
         "part": 19,
-        "description": "Um dos grandes problemas na elabora\u00e7\u00e3o de testes unit\u00e1rios \u00e9 a depend\u00eancia de servi\u00e7os externos. Se algum servi\u00e7o estiver fora do ar quando nossos testes forem executados, o nosso build pode falhar mesmo com o nosso c\u00f3digo correto. Para evitar esse problema, explicamos o uso da biblioteca requests-mock para simular a requisi\u00e7\u00e3o HTTP para o servi\u00e7o externo, tirando assim essa depend\u00eancia do teste unit\u00e1rio.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nEsse v\u00eddeo faz parte de uma s\u00e9rie onde venho gravando o trabalho real em meus projetos pessoais, ele n\u00e3o \u00e9 um treinamento. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/efcf2961a2a3f4a258c644e5a8132014dcd45a07\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, unit-test, test, mock",
+        "description": "Um dos grandes problemas na elabora\u00e7\u00e3o de testes unit\u00e1rios \u00e9 a depend\u00eancia de servi\u00e7os externos. Se algum servi\u00e7o estiver fora do ar quando nossos testes forem executados, o nosso build pode falhar mesmo com o nosso c\u00f3digo correto. Para evitar esse problema, explicamos o uso da biblioteca requests-mock para simular a requisi\u00e7\u00e3o HTTP para o servi\u00e7o externo, tirando assim essa depend\u00eancia do teste unit\u00e1rio.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nEsse v\u00eddeo faz parte de uma s\u00e9rie onde venho gravando o trabalho real em meus projetos pessoais, ele n\u00e3o \u00e9 um treinamento. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/efcf2961a2a3f4a258c644e5a8132014dcd45a07\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-19-simulando-requisicoes-com-requests-mock",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "3dba3ac3-8139-4f68-80cf-c94f19c94aac",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "e8e10d90-6b9e-4dbd-b2d8-164f1ba2452b",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -361,7 +547,7 @@
     "pk": "79b09310-2375-4614-976b-0f5013679bdf",
     "fields": {
         "created_at": "2017-12-04T15:40:16.003Z",
-        "updated_at": "2017-12-05T18:29:13.036Z",
+        "updated_at": "2017-12-06T03:50:40.295Z",
         "identifier": 11,
         "youtube_video_id": "e5zmTQUiKCM",
         "title": "Enviando emails quando uma verifical\u00e7\u00e3o de URL falhar",
@@ -370,6 +556,14 @@
         "slug": "parte-06-enviando-emails-quando-uma-verificalcao-de-url-falhar",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "67978a94-b87e-461a-a8e4-cf3e5e594e66",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "76ac88cf-3692-4a08-b3cf-1cf0ca4c843d",
+            "1424fc07-bccc-4945-81d5-be93eb0bcf1b"
         ]
     }
 },
@@ -378,15 +572,21 @@
     "pk": "81cb793c-2d49-4784-91a0-001b73b0ba4d",
     "fields": {
         "created_at": "2017-12-04T15:41:16.217Z",
-        "updated_at": "2017-12-05T18:29:13.180Z",
+        "updated_at": "2017-12-06T03:54:22.019Z",
         "identifier": 14,
         "youtube_video_id": "bcJbXxK3tfM",
         "title": "Separa\u00e7\u00e3o do arquivo de settings para suportar desenvolvimento e produ\u00e7\u00e3o",
         "part": 9,
-        "description": "Nesse v\u00eddeo separamos o arquivo de settings do django para suportar dois ambientes (desenvolvimento e produ\u00e7\u00e3o).\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/7520335fc8238c9b412ea09515c40f33527c65bd\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, settings, fe-healthcheck-server",
+        "description": "Nesse v\u00eddeo separamos o arquivo de settings do django para suportar dois ambientes (desenvolvimento e produ\u00e7\u00e3o).\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/7520335fc8238c9b412ea09515c40f33527c65bd\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-09-separacao-do-arquivo-de-settings-para-suportar-desenvolvimento-e-producao",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "70bd933e-1b05-4fc4-9144-d4a3553c4e6f"
         ]
     }
 },
@@ -395,7 +595,7 @@
     "pk": "81d05242-42ec-4c2c-b859-e8a7024d4b43",
     "fields": {
         "created_at": "2017-12-01T14:15:56.871Z",
-        "updated_at": "2017-12-05T18:29:12.596Z",
+        "updated_at": "2017-12-06T04:15:06.878Z",
         "identifier": 33,
         "youtube_video_id": "JBNYHfcY8SI",
         "title": "Implementando uma rota para receber o upload de arquivos",
@@ -404,6 +604,17 @@
         "slug": "parte-08-implementando-uma-rota-para-receber-o-upload-de-arquivos",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "3dba3ac3-8139-4f68-80cf-c94f19c94aac",
+            "f03f7102-b41d-4831-85b2-d0ced101354a",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "8e47b7a5-4f5d-4645-a178-d2d299c142ef",
+            "9e9b82ea-1e43-458c-a8c7-47241ae630af",
+            "873255d4-cf77-4336-871a-16c1636e041f",
+            "4e05a8b4-a74d-4312-bcdd-01ac5b979fcd"
         ]
     }
 },
@@ -412,15 +623,21 @@
     "pk": "9bce9e7d-3217-4622-956d-7ec46d57d5ca",
     "fields": {
         "created_at": "2017-12-04T15:39:07.590Z",
-        "updated_at": "2017-12-05T18:29:12.890Z",
+        "updated_at": "2017-12-06T03:46:02.267Z",
         "identifier": 8,
         "youtube_video_id": "IjFbIOFKm3k",
         "title": "Configura\u00e7\u00e3o do Django Admin para os modelos da aplica\u00e7\u00e3o",
         "part": 3,
-        "description": "Nesse v\u00eddeo adicionei a configura\u00e7\u00e3o dos dois modelos (Endereco e Verificacao) ao Django Admin.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/dba30870e65f5adb8c005e0b198fd053e0ad1200\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, django-admin, fe-healthcheck-server",
+        "description": "Nesse v\u00eddeo adicionei a configura\u00e7\u00e3o dos dois modelos (Endereco e Verificacao) ao Django Admin.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/dba30870e65f5adb8c005e0b198fd053e0ad1200\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-03-configuracao-do-django-admin-para-os-modelos-da-aplicacao",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "814849be-570b-4691-8e3b-e682e7e0d762",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413"
         ]
     }
 },
@@ -429,15 +646,22 @@
     "pk": "9caa80b6-48e4-4a82-a17d-49a6181b30a0",
     "fields": {
         "created_at": "2017-12-04T15:44:05.217Z",
-        "updated_at": "2017-12-05T18:29:13.594Z",
+        "updated_at": "2017-12-06T03:59:48.504Z",
         "identifier": 22,
         "youtube_video_id": "gc5xSmYtHQI",
         "title": "Integrando a biblioteca Coverage.py e pytest-cov ao projeto",
         "part": 17,
-        "description": "Nesse v\u00eddeo fiz a configura\u00e7\u00e3o da biblioteca de Coverage.py e pytest-cov ao projeto. Essas bibliotecas habilitam a cria\u00e7\u00e3o de relat\u00f3rios sobre a cobertura de testes unit\u00e1rios do projeto.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nEsse v\u00eddeo faz parte de uma s\u00e9rie onde venho gravando o trabalho real em meus projetos pessoais, ele n\u00e3o \u00e9 um treinamento. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/44e9f6562ad4f4723cc97d61121f50717e71f19f\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, coverage, unit-test, fe-healthcheck-server",
+        "description": "Nesse v\u00eddeo fiz a configura\u00e7\u00e3o da biblioteca de Coverage.py e pytest-cov ao projeto. Essas bibliotecas habilitam a cria\u00e7\u00e3o de relat\u00f3rios sobre a cobertura de testes unit\u00e1rios do projeto.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nEsse v\u00eddeo faz parte de uma s\u00e9rie onde venho gravando o trabalho real em meus projetos pessoais, ele n\u00e3o \u00e9 um treinamento. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/44e9f6562ad4f4723cc97d61121f50717e71f19f\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-17-integrando-a-biblioteca-coveragepy-e-pytest-cov-ao-projeto",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "d449b0d5-52f3-41a6-906e-06daaa41292f",
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -446,15 +670,23 @@
     "pk": "a16b7374-b021-4795-afc0-b64caeefa04a",
     "fields": {
         "created_at": "2017-12-04T15:39:30.732Z",
-        "updated_at": "2017-12-05T18:29:12.939Z",
+        "updated_at": "2017-12-06T03:48:47.959Z",
         "identifier": 9,
         "youtube_video_id": "5KqTzzr0DhI",
         "title": "Adicionado m\u00e9todo que verifica se a URL do endere\u00e7o est\u00e1 funcionando",
         "part": 4,
-        "description": "Nesse v\u00eddeo adicionei um m\u00e9todo que verifica se a URL do endere\u00e7o est\u00e1 funcionando, ela adiciona um registro no banco com o resultado.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/536beaec041e79bc288290f58e545e968accf8ca\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, tdd, unit-test, requests, fe-healthcheck-server",
+        "description": "Nesse v\u00eddeo adicionei um m\u00e9todo que verifica se a URL do endere\u00e7o est\u00e1 funcionando, ela adiciona um registro no banco com o resultado.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/536beaec041e79bc288290f58e545e968accf8ca\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-04-adicionado-metodo-que-verifica-se-a-url-do-endereco-esta-funcionando",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "1b1a3105-e916-4872-8697-905ad768b0ab",
+            "9e9b82ea-1e43-458c-a8c7-47241ae630af",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -463,15 +695,21 @@
     "pk": "a87c0e91-20b0-40e7-b2d8-cc7e356f3467",
     "fields": {
         "created_at": "2017-12-04T15:45:05.622Z",
-        "updated_at": "2017-12-05T18:29:13.763Z",
+        "updated_at": "2017-12-06T03:57:05.640Z",
         "identifier": 25,
         "youtube_video_id": "zXi--Qbj3AI",
         "title": "Integrando o requires.io para monitorar as libs do projeto",
         "part": 20,
-        "description": "Nesse v\u00eddeo explico como integrar o servi\u00e7o https://requires.io para monitorar as bibliotecas do projeto, ele verifica a vers\u00e3o das libs dentro dos arquivos de requirements e informa se alguma esta desatualizada. Tamb\u00e9m colocamos um badge com essa informa\u00e7\u00e3o na p\u00e1gina principal do projeto dentro do github.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nEsse v\u00eddeo faz parte de uma s\u00e9rie onde venho gravando o trabalho real em meus projetos pessoais, ele n\u00e3o \u00e9 um treinamento. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/a918ea456cb78bd736f4a3b4aa319d9c7bfa164e\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, requirements, requires.io, fe-healthcheck-server",
+        "description": "Nesse v\u00eddeo explico como integrar o servi\u00e7o https://requires.io para monitorar as bibliotecas do projeto, ele verifica a vers\u00e3o das libs dentro dos arquivos de requirements e informa se alguma esta desatualizada. Tamb\u00e9m colocamos um badge com essa informa\u00e7\u00e3o na p\u00e1gina principal do projeto dentro do github.\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nEsse v\u00eddeo faz parte de uma s\u00e9rie onde venho gravando o trabalho real em meus projetos pessoais, ele n\u00e3o \u00e9 um treinamento. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/a918ea456cb78bd736f4a3b4aa319d9c7bfa164e\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-20-integrando-o-requiresio-para-monitorar-as-libs-do-projeto",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "7db0e6a9-ab30-4e8e-abe9-186eaf01c206",
+            "5a661ca5-e2fd-4f03-8411-010b4eef7bcf"
         ]
     }
 },
@@ -480,7 +718,7 @@
     "pk": "b02095c7-912f-4196-be87-4d7cd4d92d2a",
     "fields": {
         "created_at": "2017-11-29T16:11:29.166Z",
-        "updated_at": "2017-12-05T18:29:12.646Z",
+        "updated_at": "2017-12-06T04:18:40.904Z",
         "identifier": 27,
         "youtube_video_id": "5PQbxuK2pH4",
         "title": "Configurando o Travis para a Integra\u00e7\u00e3o Cont\u00ednua do Projeto",
@@ -489,6 +727,13 @@
         "slug": "parte-02-configurando-o-travis-para-a-integracao-continua-do-projeto",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "eb2f3a6a-6ca1-43e3-8039-230ec13174c2",
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "c9bff618-cac4-4244-b889-86f13093cff8"
         ]
     }
 },
@@ -497,7 +742,7 @@
     "pk": "bc352eb1-c0d6-4355-b332-840cf3839faa",
     "fields": {
         "created_at": "2017-12-04T15:42:25.425Z",
-        "updated_at": "2017-12-05T18:29:13.351Z",
+        "updated_at": "2017-12-06T04:05:52.403Z",
         "identifier": 17,
         "youtube_video_id": "6ol1NPx1qew",
         "title": "Configurando o Django para logar em um arquivo (logging)",
@@ -506,6 +751,15 @@
         "slug": "parte-12-configurando-o-django-para-logar-em-um-arquivo-logging",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "9371ba23-b321-43da-a382-e142e15c09e0",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6cf6b688-f657-4e0f-955e-29daf4011969",
+            "044969ee-0ec0-4357-a73e-8fee9d5b5611",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "70bd933e-1b05-4fc4-9144-d4a3553c4e6f"
         ]
     }
 },
@@ -514,7 +768,7 @@
     "pk": "c87799c1-19e2-42f7-b044-477b7af6fcff",
     "fields": {
         "created_at": "2017-12-01T14:17:15.676Z",
-        "updated_at": "2017-12-05T18:29:12.694Z",
+        "updated_at": "2017-12-06T04:08:18.111Z",
         "identifier": 39,
         "youtube_video_id": "_dRBGV53WRA",
         "title": "Integrando a biblioteca factory_boy ao projeto",
@@ -523,6 +777,18 @@
         "slug": "parte-14-integrando-a-biblioteca-factory_boy-ao-projeto",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "7c21cfc6-5b70-4d0c-8d26-0d94f05783ba",
+            "8bb6280f-e102-4b65-b188-1a5fb2c5e6d4",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "3dba3ac3-8139-4f68-80cf-c94f19c94aac",
+            "f03f7102-b41d-4831-85b2-d0ced101354a",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "a7b35e93-6321-4290-a091-581500bdac39",
+            "9e9b82ea-1e43-458c-a8c7-47241ae630af",
+            "873255d4-cf77-4336-871a-16c1636e041f"
         ]
     }
 },
@@ -531,15 +797,24 @@
     "pk": "c925689d-3f93-4f34-935f-ec117dc14d18",
     "fields": {
         "created_at": "2017-12-04T15:38:34.568Z",
-        "updated_at": "2017-12-05T18:29:12.839Z",
+        "updated_at": "2017-12-06T03:45:24.900Z",
         "identifier": 7,
         "youtube_video_id": "h8X7cDDgpMs",
         "title": "Cria\u00e7\u00e3o da app de healthcheck e seus modelos",
         "part": 2,
-        "description": "Nesse v\u00eddeo adicionei a aplica\u00e7\u00e3o de healthcheck e seus dois modelos (Endereco e Verificacao) junto com seus arquivos de migra\u00e7\u00e3o.\r\n\r\nLembrando que esse v\u00eddeo pertence a uma s\u00e9rie de todo o trabalho que eu venho realizando em projetos pessoais. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\n\r\nhttps://goo.gl/xNmqrF\r\n\r\n\r\nLINKS:\r\n- Projeto: https://github.com/fernandoe/fe-healthcheck-server\r\n- Commit: https://github.com/fernandoe/fe-healthcheck-server/commit/2d3aac119bb71dd1636794bce2674f53ce43a3b1\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, startapp, models, makemigrations, migrate, fe-healthcheck-server",
+        "description": "Nesse v\u00eddeo adicionei a aplica\u00e7\u00e3o de healthcheck e seus dois modelos (Endereco e Verificacao) junto com seus arquivos de migra\u00e7\u00e3o.\r\n\r\nLembrando que esse v\u00eddeo pertence a uma s\u00e9rie de todo o trabalho que eu venho realizando em projetos pessoais. Para ver todos os v\u00eddeos desse projeto acesse o link abaixo:\r\n\r\nhttps://goo.gl/xNmqrF\r\n\r\n\r\nLINKS:\r\n- Projeto: https://github.com/fernandoe/fe-healthcheck-server\r\n- Commit: https://github.com/fernandoe/fe-healthcheck-server/commit/2d3aac119bb71dd1636794bce2674f53ce43a3b1\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-02-criacao-da-app-de-healthcheck-e-seus-modelos",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "f4c5234c-3c21-4840-a89b-3012827e9ef7",
+            "c1ab8ba4-4b49-49da-b01c-9bbfde8190e6",
+            "ed3f6041-b17b-4606-8928-658bb17896c1",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+            "3d65e0ae-b3bb-4f99-a219-5946ed91821c"
         ]
     }
 },
@@ -548,15 +823,22 @@
     "pk": "e7d9120e-eb9c-45c3-9b9f-2034c404f5a8",
     "fields": {
         "created_at": "2017-12-04T15:42:44.100Z",
-        "updated_at": "2017-12-05T18:29:13.400Z",
+        "updated_at": "2017-12-06T04:04:57.857Z",
         "identifier": 18,
         "youtube_video_id": "jF9ENjMDIuM",
         "title": "Adicionando uma coluna customizada no django-admin",
         "part": 13,
-        "description": "Nesse v\u00eddeo adicionamos uma coluna customizada indicando o \u00faltimo resultada da verifica\u00e7\u00e3o do modelo de Endere\u00e7o dentro do Django Admin.\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/820cca2ebcc8668ea93261ed5fa11565551ddca0\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv\r\n\r\n\r\nTAGS:\r\npython, django, django-admin, column, fe-healthcheck-server",
+        "description": "Nesse v\u00eddeo adicionamos uma coluna customizada indicando o \u00faltimo resultada da verifica\u00e7\u00e3o do modelo de Endere\u00e7o dentro do Django Admin.\r\n\r\n\r\nTODOS OS V\u00cdDEOS DESSE PROJETO\r\nhttps://www.youtube.com/playlist?list=PLSlZ5nyl9eneYX950jlgBHfZM9SC2bJfP\r\n\r\n\r\nPROJETO:\r\nhttps://github.com/fernandoe/fe-healthcheck-server\r\n\r\n\r\nCOMMIT:\r\nhttps://github.com/fernandoe/fe-healthcheck-server/commit/820cca2ebcc8668ea93261ed5fa11565551ddca0\r\n\r\n\r\nSEGUE L\u00c1 (Uma das melhores formas de apoiar esse trabalho \u00e9 curtir/seguir/assinar/compartilhar minhas redes sociais):\r\nhttps://www.youtube.com/c/CodigoAbertoTV\r\nhttps://fb.me/codigo.aberto.tv\r\nhttps://twitter.com/feresp\r\nhttps://github.com/fernandoe\r\nhttp://codigoaberto.tv",
         "slug": "parte-13-adicionando-uma-coluna-customizada-no-django-admin",
         "playlists": [
             "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+        ],
+        "tags": [
+            "e21a09db-0fa3-4832-8c28-af2446c07744",
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "814849be-570b-4691-8e3b-e682e7e0d762",
+            "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413"
         ]
     }
 },
@@ -565,7 +847,7 @@
     "pk": "efdf04a2-0f96-4e2b-a932-cb5dc47d8c9f",
     "fields": {
         "created_at": "2017-11-29T16:14:27.456Z",
-        "updated_at": "2017-12-05T18:29:12.742Z",
+        "updated_at": "2017-12-06T04:17:06.296Z",
         "identifier": 29,
         "youtube_video_id": "jFNEAJOfUM4",
         "title": "Instala\u00e7\u00e3o e configura\u00e7\u00e3o do django-rest-framework",
@@ -574,6 +856,12 @@
         "slug": "parte-04-instalacao-e-configuracao-do-django-rest-framework",
         "playlists": [
             "f38a83d3-3f17-43a3-bdf7-759eb276e395"
+        ],
+        "tags": [
+            "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+            "7c21cfc6-5b70-4d0c-8d26-0d94f05783ba",
+            "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+            "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413"
         ]
     }
 }

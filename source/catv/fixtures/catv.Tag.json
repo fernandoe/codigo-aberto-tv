@@ -1,0 +1,479 @@
+[
+{
+    "model": "catv.tag",
+    "pk": "044969ee-0ec0-4357-a73e-8fee9d5b5611",
+    "fields": {
+        "created_at": "2017-12-06T04:05:26.632Z",
+        "updated_at": "2017-12-06T04:05:26.632Z",
+        "name": "logging"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "09d6bcf4-9dfa-4db5-84b6-51f59429b264",
+    "fields": {
+        "created_at": "2017-12-06T04:17:58.597Z",
+        "updated_at": "2017-12-06T04:17:58.597Z",
+        "name": "virtualenvwrapper"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "1424fc07-bccc-4945-81d5-be93eb0bcf1b",
+    "fields": {
+        "created_at": "2017-12-06T03:50:07.026Z",
+        "updated_at": "2017-12-06T03:50:07.026Z",
+        "name": "templates"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "1578316d-9e42-4c53-9f62-57a292b5a69b",
+    "fields": {
+        "created_at": "2017-12-06T03:53:20.399Z",
+        "updated_at": "2017-12-06T03:53:20.399Z",
+        "name": "devops"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "195786c0-f499-42e4-bf9a-ac372a1a5959",
+    "fields": {
+        "created_at": "2017-12-06T04:09:26.592Z",
+        "updated_at": "2017-12-06T04:09:26.592Z",
+        "name": "apiview"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "1a3c819f-866b-4bb5-a81c-6f5682c50ce8",
+    "fields": {
+        "created_at": "2017-12-06T04:17:42.462Z",
+        "updated_at": "2017-12-06T04:17:42.462Z",
+        "name": "pyenv"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "1b1a3105-e916-4872-8697-905ad768b0ab",
+    "fields": {
+        "created_at": "2017-12-06T03:48:27.499Z",
+        "updated_at": "2017-12-06T03:48:27.499Z",
+        "name": "requests"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "227fdebf-2763-4cb8-a755-e672461bf69f",
+    "fields": {
+        "created_at": "2017-12-06T04:19:15.846Z",
+        "updated_at": "2017-12-06T04:19:15.846Z",
+        "name": "pycharm"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "28b7a8fe-76f1-435a-9c8d-b1934ac41571",
+    "fields": {
+        "created_at": "2017-12-06T04:08:05.151Z",
+        "updated_at": "2017-12-06T04:08:05.151Z",
+        "name": "fe-arquivo-server"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "2d698c75-d77b-4ba9-bfe4-510c0f5487b7",
+    "fields": {
+        "created_at": "2017-12-06T04:09:41.110Z",
+        "updated_at": "2017-12-06T04:09:41.110Z",
+        "name": "download"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "3d65e0ae-b3bb-4f99-a219-5946ed91821c",
+    "fields": {
+        "created_at": "2017-12-06T03:44:43.384Z",
+        "updated_at": "2017-12-06T03:44:43.385Z",
+        "name": "startapp"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "3dba3ac3-8139-4f68-80cf-c94f19c94aac",
+    "fields": {
+        "created_at": "2017-12-06T03:57:49.385Z",
+        "updated_at": "2017-12-06T03:57:49.385Z",
+        "name": "mock"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "493190e5-36c7-40f7-aa18-a23001547979",
+    "fields": {
+        "created_at": "2017-12-06T03:34:46.056Z",
+        "updated_at": "2017-12-06T03:34:46.056Z",
+        "name": "startproject"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "4e05a8b4-a74d-4312-bcdd-01ac5b979fcd",
+    "fields": {
+        "created_at": "2017-12-06T04:14:55.151Z",
+        "updated_at": "2017-12-06T04:14:55.151Z",
+        "name": "upload"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "5a661ca5-e2fd-4f03-8411-010b4eef7bcf",
+    "fields": {
+        "created_at": "2017-12-06T03:56:49.168Z",
+        "updated_at": "2017-12-06T03:56:49.168Z",
+        "name": "requires.io"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "5d600cb2-665f-4c49-bbec-b152cdee3acc",
+    "fields": {
+        "created_at": "2017-12-06T03:49:09.195Z",
+        "updated_at": "2017-12-06T03:49:09.195Z",
+        "name": "command"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "659a436e-70f3-44d7-a038-ed7531d50de3",
+    "fields": {
+        "created_at": "2017-12-06T03:58:33.283Z",
+        "updated_at": "2017-12-06T03:58:33.283Z",
+        "name": "coveralls"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "67978a94-b87e-461a-a8e4-cf3e5e594e66",
+    "fields": {
+        "created_at": "2017-12-06T03:49:58.432Z",
+        "updated_at": "2017-12-06T03:49:58.432Z",
+        "name": "email"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "6bc1e7c9-9877-454b-a5b7-8a44cef9a879",
+    "fields": {
+        "created_at": "2017-12-06T03:52:18.776Z",
+        "updated_at": "2017-12-06T03:52:18.776Z",
+        "name": "git"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "6cf6b688-f657-4e0f-955e-29daf4011969",
+    "fields": {
+        "created_at": "2017-12-06T04:05:31.272Z",
+        "updated_at": "2017-12-06T04:05:31.273Z",
+        "name": "log"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "6d4bb3d6-cb87-42a7-ba84-3aa5dff92413",
+    "fields": {
+        "created_at": "2017-12-06T03:34:24.359Z",
+        "updated_at": "2017-12-06T03:34:24.359Z",
+        "name": "python"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "70bd933e-1b05-4fc4-9144-d4a3553c4e6f",
+    "fields": {
+        "created_at": "2017-12-06T03:54:10.602Z",
+        "updated_at": "2017-12-06T03:54:10.602Z",
+        "name": "settings"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "76507eaa-f468-492e-bb8f-5c75ba6ad4e0",
+    "fields": {
+        "created_at": "2017-12-06T04:00:11.518Z",
+        "updated_at": "2017-12-06T04:00:11.518Z",
+        "name": "pytest"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "76ac88cf-3692-4a08-b3cf-1cf0ca4c843d",
+    "fields": {
+        "created_at": "2017-12-06T03:50:02.193Z",
+        "updated_at": "2017-12-06T03:50:02.193Z",
+        "name": "signals"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "7c21cfc6-5b70-4d0c-8d26-0d94f05783ba",
+    "fields": {
+        "created_at": "2017-12-06T04:07:48.382Z",
+        "updated_at": "2017-12-06T04:07:48.382Z",
+        "name": "django-rest-framework"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "7db0e6a9-ab30-4e8e-abe9-186eaf01c206",
+    "fields": {
+        "created_at": "2017-12-06T03:56:42.978Z",
+        "updated_at": "2017-12-06T03:56:42.978Z",
+        "name": "requirements"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "814849be-570b-4691-8e3b-e682e7e0d762",
+    "fields": {
+        "created_at": "2017-12-06T03:45:48.697Z",
+        "updated_at": "2017-12-06T03:45:48.698Z",
+        "name": "django-admin"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "873255d4-cf77-4336-871a-16c1636e041f",
+    "fields": {
+        "created_at": "2017-12-06T03:48:16.830Z",
+        "updated_at": "2017-12-06T03:48:16.830Z",
+        "name": "unit-test"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "878acb15-2f0f-4377-81c2-f40dc4abdf77",
+    "fields": {
+        "created_at": "2017-12-06T04:01:25.914Z",
+        "updated_at": "2017-12-06T04:01:25.914Z",
+        "name": "makefile"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "8bb6280f-e102-4b65-b188-1a5fb2c5e6d4",
+    "fields": {
+        "created_at": "2017-12-06T04:07:53.735Z",
+        "updated_at": "2017-12-06T04:07:53.735Z",
+        "name": "factory-boy"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "8e47b7a5-4f5d-4645-a178-d2d299c142ef",
+    "fields": {
+        "created_at": "2017-12-06T04:14:59.824Z",
+        "updated_at": "2017-12-06T04:14:59.824Z",
+        "name": "storage"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "9371ba23-b321-43da-a382-e142e15c09e0",
+    "fields": {
+        "created_at": "2017-12-06T03:52:12.942Z",
+        "updated_at": "2017-12-06T03:52:12.942Z",
+        "name": "dreamhost"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
+    "fields": {
+        "created_at": "2017-12-06T03:34:35.603Z",
+        "updated_at": "2017-12-06T03:34:35.603Z",
+        "name": "django"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "9628c28b-a0dc-4f7c-ad56-1ad64c1e13aa",
+    "fields": {
+        "created_at": "2017-12-06T04:10:51.339Z",
+        "updated_at": "2017-12-06T04:10:51.339Z",
+        "name": "serializer"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "9e9b82ea-1e43-458c-a8c7-47241ae630af",
+    "fields": {
+        "created_at": "2017-12-06T03:48:10.607Z",
+        "updated_at": "2017-12-06T03:48:10.607Z",
+        "name": "tdd"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "9ea7d181-eb34-4794-838c-5514277d9254",
+    "fields": {
+        "created_at": "2017-12-06T04:14:00.819Z",
+        "updated_at": "2017-12-06T04:14:00.819Z",
+        "name": "migrations"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "a5857af4-51b4-4541-a464-9c691e979eee",
+    "fields": {
+        "created_at": "2017-12-06T03:52:24.879Z",
+        "updated_at": "2017-12-06T03:52:24.879Z",
+        "name": "deploy"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "a7b35e93-6321-4290-a091-581500bdac39",
+    "fields": {
+        "created_at": "2017-12-06T04:07:58.640Z",
+        "updated_at": "2017-12-06T04:07:58.640Z",
+        "name": "refactory"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "a8e07c64-d8ec-4cdb-8b52-541a863db639",
+    "fields": {
+        "created_at": "2017-12-06T03:53:25.697Z",
+        "updated_at": "2017-12-06T03:53:25.697Z",
+        "name": "cron-job"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "abbe7294-1d37-401a-86d7-90b2b00a004f",
+    "fields": {
+        "created_at": "2017-12-06T03:34:53.013Z",
+        "updated_at": "2017-12-06T03:34:53.013Z",
+        "name": "virtualenv"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "b7c9ccaa-f73d-4172-828f-52bc6089cc53",
+    "fields": {
+        "created_at": "2017-12-06T03:54:40.097Z",
+        "updated_at": "2017-12-06T03:54:40.097Z",
+        "name": "mysql"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "be9cc7cb-3f40-46e8-8f30-f1ced2ccfcd1",
+    "fields": {
+        "created_at": "2017-12-06T04:11:00.912Z",
+        "updated_at": "2017-12-06T04:11:00.912Z",
+        "name": "json"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "c1ab8ba4-4b49-49da-b01c-9bbfde8190e6",
+    "fields": {
+        "created_at": "2017-12-06T03:45:03.999Z",
+        "updated_at": "2017-12-06T03:45:03.999Z",
+        "name": "migrate"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "c9bff618-cac4-4244-b889-86f13093cff8",
+    "fields": {
+        "created_at": "2017-12-06T04:00:52.073Z",
+        "updated_at": "2017-12-06T04:00:52.073Z",
+        "name": "travis"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "d2ca670a-0a9d-4b37-b6fe-5828c52179f4",
+    "fields": {
+        "created_at": "2017-12-06T03:35:04.014Z",
+        "updated_at": "2017-12-06T03:51:54.290Z",
+        "name": "fe-healthcheck-server"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "d449b0d5-52f3-41a6-906e-06daaa41292f",
+    "fields": {
+        "created_at": "2017-12-06T03:58:30.315Z",
+        "updated_at": "2017-12-06T03:58:30.315Z",
+        "name": "coverage"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "e21a09db-0fa3-4832-8c28-af2446c07744",
+    "fields": {
+        "created_at": "2017-12-06T04:04:45.767Z",
+        "updated_at": "2017-12-06T04:04:45.767Z",
+        "name": "column"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "e8e10d90-6b9e-4dbd-b2d8-164f1ba2452b",
+    "fields": {
+        "created_at": "2017-12-06T03:57:39.663Z",
+        "updated_at": "2017-12-06T03:57:39.663Z",
+        "name": "test"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "eb2f3a6a-6ca1-43e3-8039-230ec13174c2",
+    "fields": {
+        "created_at": "2017-12-06T04:18:34.988Z",
+        "updated_at": "2017-12-06T04:18:34.988Z",
+        "name": "ci"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "ed3f6041-b17b-4606-8928-658bb17896c1",
+    "fields": {
+        "created_at": "2017-12-06T03:44:53.581Z",
+        "updated_at": "2017-12-06T03:44:53.581Z",
+        "name": "models"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "f03f7102-b41d-4831-85b2-d0ced101354a",
+    "fields": {
+        "created_at": "2017-12-06T04:07:42.551Z",
+        "updated_at": "2017-12-06T04:07:42.551Z",
+        "name": "patch"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "f4c5234c-3c21-4840-a89b-3012827e9ef7",
+    "fields": {
+        "created_at": "2017-12-06T03:44:58.422Z",
+        "updated_at": "2017-12-06T03:44:58.422Z",
+        "name": "makemigrations"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "fe684ab1-9e15-4cd6-b43f-5448b67eb85f",
+    "fields": {
+        "created_at": "2017-12-06T04:09:36.438Z",
+        "updated_at": "2017-12-06T04:09:36.438Z",
+        "name": "file-response"
+    }
+}
+]

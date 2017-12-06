@@ -9,11 +9,13 @@ testuser:
 
 dumpdata:
 	cd ./source && \
+	python manage.py dumpdata --indent 4 catv.Tag > ./catv/fixtures/catv.Tag.json && \
 	python manage.py dumpdata --indent 4 catv.Video > ./catv/fixtures/catv.Video.json && \
 	python manage.py dumpdata --indent 4 catv.Playlist > ./catv/fixtures/catv.Playlist.json
 
 loaddata:
 	cd ./source && \
+	python manage.py loaddata catv.Tag.json && \
 	python manage.py loaddata catv.Playlist.json && \
 	python manage.py loaddata catv.Video.json
 
