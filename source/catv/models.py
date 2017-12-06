@@ -1,6 +1,7 @@
 from django.db import models
 from django.utils.text import slugify
 from fe_core.base_models import UUIDModel
+from django.template import loader, Context
 
 
 class Tag(UUIDModel):
@@ -45,3 +46,10 @@ class Video(UUIDModel):
 
     def get_tags(self):
         return ", ".join(self.tags.values_list('name', flat=True))
+
+    def get_long_description(self):
+        t = loader.get_template('catv/description/base.txt')
+        c = {
+            'video': self
+        }
+        return t.render(c)

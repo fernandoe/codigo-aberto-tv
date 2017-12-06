@@ -59,9 +59,7 @@
     </div>
 
     <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
-      <div class="card-body">
-        {{ object.description|urlize|linebreaks }}
-      </div>
+      <div class="card-body">{{ object.get_long_description|urlize|linebreaks }}</div>
     </div>
   </div>
 </div>
