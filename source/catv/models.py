@@ -34,7 +34,6 @@ class Video(UUIDModel):
     playlists = models.ManyToManyField(Playlist, blank=True)
     slug = models.SlugField(max_length=200, null=True, blank=True)
     tags = models.ManyToManyField(Tag, blank=True)
-
     # script = models.TextField(null=True, blank=True)
 
     def __str__(self):

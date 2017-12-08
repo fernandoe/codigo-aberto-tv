@@ -1,12 +1,19 @@
+from django.db.models import Count
+from django.urls import reverse
 from django.views.generic import ListView, DetailView, TemplateView
 
 from catv.models import Video, Playlist, Tag
-from django.db.models import Count
 
 
 class VideoListView(ListView):
     model = Video
-    ordering = ['part']
+
+    def get_queryset(self):
+        tag = self.request.GET.get('tag')
+        qs = Video.objects.all()
+        if tag is not None:
+            qs = qs.filter(tags__name=tag)
+        return qs.distinct().order_by('playlists', 'part')
 
 
 class PlaylistListView(ListView):
@@ -29,7 +36,7 @@ class TagsView(TemplateView):
             output.append({
                 "text": tag.name,
                 "weight": tag.video__count,
-                "link": '/'
+                "link": '{URL}?tag={TAG}'.format(URL=reverse('video-list'), TAG=tag.name)
             })
 
         context['tags'] = output
