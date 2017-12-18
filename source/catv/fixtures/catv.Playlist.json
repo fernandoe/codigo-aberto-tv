@@ -1,6 +1,16 @@
 [
 {
     "model": "catv.playlist",
+    "pk": "5eb2c26e-734d-4794-9579-8cbcff8817fd",
+    "fields": {
+        "created_at": "2017-12-18T11:47:20.311Z",
+        "updated_at": "2017-12-18T11:47:54.806Z",
+        "youtube_playlist_id": "PLSlZ5nyl9enejcBNVEJU1T51WGdD-IT1y",
+        "title": "Projeto Conta de Usu\u00e1rio"
+    }
+},
+{
+    "model": "catv.playlist",
     "pk": "f38a83d3-3f17-43a3-bdf7-759eb276e395",
     "fields": {
         "created_at": "2017-12-04T14:22:44.494Z",

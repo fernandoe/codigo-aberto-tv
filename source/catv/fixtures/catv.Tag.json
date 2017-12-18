@@ -244,6 +244,15 @@
 },
 {
     "model": "catv.tag",
+    "pk": "829e0217-8f89-4873-a35a-9ecfbbc505e7",
+    "fields": {
+        "created_at": "2017-12-18T11:53:47.453Z",
+        "updated_at": "2017-12-18T11:53:47.453Z",
+        "name": "fe-conta-server"
+    }
+},
+{
+    "model": "catv.tag",
     "pk": "873255d4-cf77-4336-871a-16c1636e041f",
     "fields": {
         "created_at": "2017-12-06T03:48:16.830Z",
@@ -276,6 +285,15 @@
         "created_at": "2017-12-06T04:14:59.824Z",
         "updated_at": "2017-12-06T04:14:59.824Z",
         "name": "storage"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "91e5202b-ffad-4c4b-ac96-de699bab5b91",
+    "fields": {
+        "created_at": "2017-12-18T11:56:12.434Z",
+        "updated_at": "2017-12-18T11:56:12.434Z",
+        "name": "ubuntu"
     }
 },
 {
@@ -370,6 +388,15 @@
 },
 {
     "model": "catv.tag",
+    "pk": "bad7bb45-c2eb-4941-8350-9dd723580ae0",
+    "fields": {
+        "created_at": "2017-12-18T11:55:56.356Z",
+        "updated_at": "2017-12-18T11:55:56.356Z",
+        "name": "environment"
+    }
+},
+{
+    "model": "catv.tag",
     "pk": "be9cc7cb-3f40-46e8-8f30-f1ced2ccfcd1",
     "fields": {
         "created_at": "2017-12-06T04:11:00.912Z",
@@ -393,6 +420,15 @@
         "created_at": "2017-12-06T04:00:52.073Z",
         "updated_at": "2017-12-06T04:00:52.073Z",
         "name": "travis"
+    }
+},
+{
+    "model": "catv.tag",
+    "pk": "cd861a13-b97a-4c40-89eb-6d0dc3afd929",
+    "fields": {
+        "created_at": "2017-12-18T11:54:07.188Z",
+        "updated_at": "2017-12-18T11:54:07.188Z",
+        "name": "pyenv-virtualenvwrapper"
     }
 },
 {
