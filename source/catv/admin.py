@@ -15,6 +15,7 @@ class VideoModelAdmin(admin.ModelAdmin):
     list_display = ['get_uuid', 'identifier', 'part', 'youtube_video_id', 'title', 'get_tags']
     list_filter = ['playlists']
     filter_horizontal = ['tags']
+    readonly_fields = ('slug',)
 
 
 @admin.register(Playlist)

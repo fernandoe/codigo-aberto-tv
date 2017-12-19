@@ -1,7 +1,9 @@
 from django.db import models
+from django.db.models.signals import post_save
+from django.dispatch import receiver
+from django.template import loader
 from django.utils.text import slugify
 from fe_core.base_models import UUIDModel
-from django.template import loader, Context
 
 
 class Tag(UUIDModel):
@@ -52,3 +54,9 @@ class Video(UUIDModel):
             'video': self
         }
         return t.render(c)
+
+
+@receiver(post_save, sender=Video)
+def video_post_save(sender, instance, created, **kwargs):
+    if created:
+        instance.slugify_url()

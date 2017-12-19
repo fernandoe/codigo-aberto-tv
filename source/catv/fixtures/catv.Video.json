@@ -109,7 +109,7 @@
     "pk": "1437296d-1326-462f-ae23-0335a2c5bed7",
     "fields": {
         "created_at": "2017-12-18T11:57:46.027Z",
-        "updated_at": "2017-12-18T12:02:43.213Z",
+        "updated_at": "2017-12-19T12:07:51.816Z",
         "identifier": 40,
         "youtube_video_id": "ETluqhXtHXs",
         "title": "Configurando Ambiente de Desenvolvimento com pyenv e virtualenvwrapper",
@@ -117,9 +117,7 @@
         "description": "Nesse v\u00eddeo configuramos nosso ambiente de desenvolvimento com pyenv para gerenciar nossas vers\u00f5es instaladas de python e o pyenv-virtualenvwrapper para gerenciar nossos ambientes virtuais.\r\n\r\n- https://github.com/pyenv/pyenv\r\n- https://github.com/pyenv/pyenv-virtualenvwrapper\r\n\r\nLINKS:\r\n- Projeto: https://github.com/fernandoe/fe-conta-server\r\n- Roteiro: https://github.com/fernandoe/fe-conta-server/issues/1",
         "slug": "parte-01-configurando-ambiente-de-desenvolvimento-com-pyenv-e-virtualenvwrapper",
         "playlists": [
-            "5eb2c26e-734d-4794-9579-8cbcff8817fd",
-            "f38a83d3-3f17-43a3-bdf7-759eb276e395",
-            "f9f7dd93-211c-4d85-a1d3-c636381566b0"
+            "5eb2c26e-734d-4794-9579-8cbcff8817fd"
         ],
         "tags": [
             "93d3fe01-61cf-4f84-9e90-27a0f137fa0d",
